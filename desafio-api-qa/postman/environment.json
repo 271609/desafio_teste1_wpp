@@ -1,0 +1,11 @@
+{
+  "id": "env123",
+  "name": "API QA ENV",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "https://jsonplaceholder.typicode.com",
+      "enabled": true
+    }
+  ]
+}
