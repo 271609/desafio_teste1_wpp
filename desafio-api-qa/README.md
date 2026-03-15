@@ -11,8 +11,10 @@ Como Executar os Testes
    https://jsonplaceholder.typicode.com
 
 5. Executar via Postman
+Manualmente: 
 Clique em **Send** → Execute as requisições
 
+Ou Clicar em Run na Collection e executar automaticamentes todas as requisições 
    
 
    
